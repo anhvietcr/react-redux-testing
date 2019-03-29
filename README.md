@@ -1,7 +1,7 @@
 # Simple Counter
-`build in React Redux with test actions, reducers, components`
+`Build in React Redux with test actions, reducers, components`
 
-![preview](preview.png)
+![preview](preview.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
